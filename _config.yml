@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Wonderfull Blog!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -127,10 +127,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/putrisylw"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/putrisylw"
 
 # Site Footer
 footer:
